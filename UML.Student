@@ -1,0 +1,21 @@
++------------------------------------+
+|              Student               |
++------------------------------------+
+| - studentId: String                |
+| - fullName: String                 |
+| - birthYear: int                   |
+| - address: String                  |
++------------------------------------+
+| + Student(id, name)                |
+| + Student(id, name, year, addr)    |
+| + getStudentId(): String           |
+| + setStudentId(id): void           |
+| + getFullName(): String            |
+| + setFullName(name): void          |
+| + getBirthYear(): int              |
+| + setBirthYear(y): void            |
+| + getAddress(): String             |
+| + setAddress(addr): void           |
+| + getAge(): int                    |
+| + printInfo(): void                |
++------------------------------------+
