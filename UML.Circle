@@ -1,0 +1,14 @@
++--------------------------------+
+|            Circle              |
++--------------------------------+
+| - r: double                    |
++--------------------------------+
+| + Circle(r: double)            |
+| + Circle()                     |
+| + getR(): double               |
+| + setR(r: double): void        |
+| + input(sc: Scanner): void     |
+| + output(): void               |
+| + area(): double               |
+| + circumference(): double      |
++--------------------------------+
