@@ -1,0 +1,21 @@
++-----------------------------+
+|            Book             |
++-----------------------------+
+| - bookId: String            |
+| - title: String             |
+| - price: double             |
+| - discount: double          |
++-----------------------------+
+| + Book(id, title)           |
+| + Book(id, title, p, d)     |
+| + getBookId(): String       |
+| + setBookId(id): void       |
+| + getTitle(): String        |
+| + setTitle(t): void         |
+| + getPrice(): double        |
+| + setPrice(p): void         |
+| + getDiscount(): double     |
+| + setDiscount(d): void      |
+| + salePrice(): double       |
+| + printInfo(): void         |
++-----------------------------+
